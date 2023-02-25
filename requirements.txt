@@ -1,0 +1,10 @@
+arrow
+python-dotenv
+pandas
+requests
+numpy
+matplotlib
+ipython
+musicbrainzngs
+tekore
+aiohttp
